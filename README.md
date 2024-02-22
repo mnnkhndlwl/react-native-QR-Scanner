@@ -25,9 +25,8 @@
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-![WhatsApp Image 2024-02-22 at 17 31 15_3f0f7951](https://github.com/mnnkhndlwl/react-native-QR-Scanner/assets/75252077/11de51c4-bf34-4e58-b575-9c2d99bcbb73)
-![WhatsApp Image 2024-02-22 at 17 31 15_86d76d55](https://github.com/mnnkhndlwl/react-native-QR-Scanner/assets/75252077/c0eb852c-85bc-4aff-91f7-92edfe68739b)
-![WhatsApp Image 2024-02-22 at 17 31 14_6287940c](https://github.com/mnnkhndlwl/react-native-QR-Scanner/assets/75252077/cd4ddfd2-5512-418d-9d0f-e85c270df51f)
+![image](https://github.com/mnnkhndlwl/react-native-QR-Scanner/assets/75252077/972b0fc0-c9c2-4836-9b74-bcde3d7fc65f)
+
 
   <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
