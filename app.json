@@ -4,6 +4,7 @@
     "slug": "qr",
     "version": "1.0.0",
     "orientation": "portrait",
+    "plugins": ["@react-native-firebase/app", "@react-native-firebase/auth"],
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
@@ -21,10 +22,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "googleServicesFile": "./google-services.json",
+      "package": "com.example.reddit_clone"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2b40dd28-4076-4809-ae5d-e60d043c913e"
+      }
     }
   }
 }
